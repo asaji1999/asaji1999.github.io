@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 22px;
+}
+
+#header-nav{
+  background-color: gray;
+}
+.menu{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+.p1{
+  border: blue 4px solid;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: gray;
+  text-align: justify;
+  height: 1000px;
+}
+.item{
+  text-align: center;
+}
